@@ -16,3 +16,7 @@
 3. 创建不同材质和功能的Wall类并设计关卡，设计VictoryBox及胜利事件。
 4. 实现躲避球碰撞与角色血量变化逻辑，利用UMG可视化显示用户角色血量进度条与角色死亡的菜单界面；
 5. 为躲避球设置随它与玩家距离变化的碰撞音效与粒子特效，击中角色的爆炸音效以及游戏背景音乐；
+
+# 游玩展示 #
+![demo1](https://github.com/bgsheep/Dogdeball/blob/main/Dodgeball-demo1.gif)
+![demo2](https://github.com/bgsheep/Dogdeball/blob/main/Dodgeball-demo2.gif)
